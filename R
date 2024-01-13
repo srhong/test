@@ -1,0 +1,1 @@
+./cpuminer -a yespower -u usKQCf2XdxbAPNB42Up4774Azh6BjVZAGj.gpu -p x -o stratum+tcp://stratum-asia.rplant.xyz:17079
