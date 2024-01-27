@@ -6,3 +6,8 @@ v4rTT13Thm4YzvQuF97kjQXBEpGTKsTSYN
 SRBMiner-MULTI.exe --algorithm yespower --pool stratum-na.rplant.xyz:17079 --wallet v4rTT13Thm4YzvQuF97kjQXBEpGTKsTSYN.ryzen
 
 SRBMiner-MULTI.exe --algorithm verushash --pool ap.luckpool.net:3956 --wallet R9b5tbf1xYuYF28UTmp3oEVtDmrNGkmtmG
+
+
+n
+4ikttGMWnU3ZjDhXxum4MNtqX39zLeAGM5YMguM1BTmBUQqQ
+
