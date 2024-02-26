@@ -14,3 +14,5 @@ n
 
 -a yescryptr16  -o stratum+tcp://stratum-asia.rplant.xyz:7057 -u GgdiW6NJBC2bEZHCZmSjt1zkCU4uXvfx7Y
 
+smarty
+-a yespower  -o stratum+tcp://stratum-asia.rplant.xyz:7111 -u aKPzZaicJVrUGUmev1iacNgwBHEbKc9ybk
