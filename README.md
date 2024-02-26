@@ -11,3 +11,6 @@ SRBMiner-MULTI.exe --algorithm verushash --pool ap.luckpool.net:3956 --wallet R9
 n
 4ikttGMWnU3ZjDhXxum4MNtqX39zLeAGM5YMguM1BTmBUQqQ
 
+
+-a yescryptr16  -o stratum+tcp://stratum-asia.rplant.xyz:7057 -u GgdiW6NJBC2bEZHCZmSjt1zkCU4uXvfx7Y
+
