@@ -16,3 +16,8 @@ n
 
 smarty
 -a yespower  -o stratum+tcp://stratum-asia.rplant.xyz:7111 -u aKPzZaicJVrUGUmev1iacNgwBHEbKc9ybk
+
+
+NEOX - zpool
+
+server: stratum+tcp://yescrypt.jp.mine.zpool.ca:6233 username: GMSqifv2xgtXg5qDhFSkNpS4Lcc2PTFV44 password: c=NEOX
