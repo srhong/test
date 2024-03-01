@@ -21,3 +21,5 @@ smarty
 NEOX - zpool
 
 server: stratum+tcp://yescrypt.jp.mine.zpool.ca:6233 username: GMSqifv2xgtXg5qDhFSkNpS4Lcc2PTFV44 password: c=NEOX
+
+-a verus -o stratum+tcp://verushash.jp.mine.zpool.ca:6143 -u GMSqifv2xgtXg5qDhFSkNpS4Lcc2PTFV44 -p c=NEOX
