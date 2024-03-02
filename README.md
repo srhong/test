@@ -23,3 +23,17 @@ NEOX - zpool
 server: stratum+tcp://yescrypt.jp.mine.zpool.ca:6233 username: GMSqifv2xgtXg5qDhFSkNpS4Lcc2PTFV44 password: c=NEOX
 
 -a verus -o stratum+tcp://verushash.jp.mine.zpool.ca:6143 -u GMSqifv2xgtXg5qDhFSkNpS4Lcc2PTFV44 -p c=NEOX
+
+
+GRAVIE BSTY
+ccminer.exe -a yescrypt -o  stratum+tcp://yescrypt.jp.mine.zpool.ca:6233 -u Y2FP9UbzFnibUx98wBfwQtWQ9T7qxqYyCp -p c=BSTY
+
+zpool-YESPOWER-NEOX
+cpuminer.exe -a yespower -o stratum+tcp://yespower.jp.mine.zpool.ca:6234 -u GMSqifv2xgtXg5qDhFSkNpS4Lcc2PTFV44 -p c=NEOX -t 6 -D --cpu-affinity 0x5555 -D
+
+zpool-YESCRYPT16-NEOX
+ccminer.exe -a yescryptr16 -o  stratum+tcp://yescryptR16.jp.mine.zpool.ca:6333  -u GMSqifv2xgtXg5qDhFSkNpS4Lcc2PTFV44 -p c=NEOX
+
+zpool-YESCRYPT-NEOX
+ccminer.exe -a yescrypt -o  stratum+tcp://yescrypt.jp.mine.zpool.ca:6233 -u GMSqifv2xgtXg5qDhFSkNpS4Lcc2PTFV44 -p c=NEOX
+
