@@ -1,0 +1,1 @@
+./c -a yespower -o stratum+tcp://yespower.jp.mine.zpool.ca:6234 -u RPCnbZqhZqwuiCSpZYU7EPb31MXDj4r6fz -p c=RVN -t 8
