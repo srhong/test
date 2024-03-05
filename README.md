@@ -38,7 +38,11 @@ zpool-YESCRYPT-NEOX
 ccminer.exe -a yescrypt -o  stratum+tcp://yescrypt.jp.mine.zpool.ca:6233 -u GMSqifv2xgtXg5qDhFSkNpS4Lcc2PTFV44 -p c=NEOX
 
 
+xmrig --donate-level 1 -o yespower.jp.mine.zpool.ca:6234 -u RPCnbZqhZqwuiCSpZYU7EPb31MXDj4r6fz -p c=RVN
 
+
+
+zpool-YESPOWER-RVN
 ./c -a yespower -o stratum+tcp://yespower.jp.mine.zpool.ca:6234 -u RPCnbZqhZqwuiCSpZYU7EPb31MXDj4r6fz -p c=RVN -t 8
 
 
