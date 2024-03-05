@@ -45,5 +45,7 @@ xmrig --donate-level 1 -o yespower.jp.mine.zpool.ca:6234 -u RPCnbZqhZqwuiCSpZYU7
 zpool-YESPOWER-RVN
 ./c -a yespower -o stratum+tcp://yespower.jp.mine.zpool.ca:6234 -u RPCnbZqhZqwuiCSpZYU7EPb31MXDj4r6fz -p c=RVN -t 8
 
+zpool Clore
+./c-a yespower -o stratum+tcp://yespower.jp.mine.zpool.ca:6234 -u APceZj9FXGscQ9mB29fk9AkHEVXonn47B6 -p c=CLORE -t 8
 
 
