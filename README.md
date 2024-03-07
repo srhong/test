@@ -49,3 +49,7 @@ zpool Clore
 ./c-a yespower -o stratum+tcp://yespower.jp.mine.zpool.ca:6234 -u APceZj9FXGscQ9mB29fk9AkHEVXonn47B6 -p c=CLORE -t 8
 
 
+
+
+
+./xmrig -a rx -o stratum+tcp://rx-asia.unmineable.com:3333 -u NEOX:GMSqifv2xgtXg5qDhFSkNpS4Lcc2PTFV44.unmineable_worker_22 -p x -t 4 --randomx-1gb-pages
