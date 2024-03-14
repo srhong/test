@@ -60,6 +60,10 @@ wget https://github.com/decryp2kanon/sugarmaker/releases/download/v2.5.0-sugar4/
 unzip sugarmaker-v2.5.0-sugar4-aarch64.zip && \
 cd sugarmaker-v2.5.0-sugar4-aarch64
 
+./sugarmaker -a YespowerSugar -o stratum+tcp://yespowerSUGAR.jp.mine.zpool.ca:6241  -u GMSqifv2xgtXg5qDhFSkNpS4Lcc2PTFV44 -p c=NEOX -t 8
+
+./sugarmaker -a YespowerSugar -o stratum+tcp://yespowerSUGAR.jp.mine.zpool.ca:6241  -u APceZj9FXGscQ9mB29fk9AkHEVXonn47B6 -p c=CLORE -t 8
+
 
 
 
