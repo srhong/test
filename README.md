@@ -52,4 +52,16 @@ zpool Clore
 
 
 
+
+
+sudo apt-get update && \
+sudo apt-get install unzip && \
+wget https://github.com/decryp2kanon/sugarmaker/releases/download/v2.5.0-sugar4/sugarmaker-v2.5.0-sugar4-aarch64.zip && \
+unzip sugarmaker-v2.5.0-sugar4-aarch64.zip && \
+cd sugarmaker-v2.5.0-sugar4-aarch64
+
+
+
+
+
 ./xmrig -a rx -o stratum+tcp://rx-asia.unmineable.com:3333 -u NEOX:GMSqifv2xgtXg5qDhFSkNpS4Lcc2PTFV44.unmineable_worker_22 -p x -t 4 --randomx-1gb-pages
