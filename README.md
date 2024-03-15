@@ -69,6 +69,9 @@ cd sugarmaker-v2.5.0-sugar4-aarch64
 
 ./sugarmaker -a YespowerSugar -o stratum+tcp://yespowerSUGAR.jp.mine.zpool.ca:6241  -u APceZj9FXGscQ9mB29fk9AkHEVXonn47B6 -p c=CLORE -t 8
 
+./sugarmaker -a YespowerSugar -o stratum+tcp://198.50.168.213:6241  -u APceZj9FXGscQ9mB29fk9AkHEVXonn47B6 -p c=CLORE -t 8
+
+
 198.50.168.213
 
 
