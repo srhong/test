@@ -78,6 +78,9 @@ cd sugarmaker-v2.5.0-sugar4-aarch64
 #ypsugar xexx
 ./sugarmaker -a YespowerSugar -o stratum+tcps://stratum-asia.rplant.xyz:17042  -u sugar1qlahlk5xmcsyxeyzr4vd6hlul76tu59pr4pnl03 -p x -t 8
 
+TDC XEG
+TEKYDF6yMa9ErtRCAJPMmtyZfJLkWYgRoY
+
 
 
 
