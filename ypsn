@@ -1,1 +1,1 @@
-./sugarmaker -a YespowerSugar -o stratum+tcp://yespowerSUGAR.jp.mine.zpool.ca:6241 -u GMSqifv2xgtXg5qDhFSkNpS4Lcc2PTFV44 -p c=NEOX -t 8
+./sugarmaker -a YespowerSugar -o stratum+tcp://198.50.168.213:6241 -u GMSqifv2xgtXg5qDhFSkNpS4Lcc2PTFV44 -p c=NEOX -t 8
